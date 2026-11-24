@@ -1,3 +1,5 @@
+package Java_DSA.Fundamentals.Programming;
+
 import java.util.Scanner;
 
 public class ConditionalStatements {
